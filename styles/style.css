@@ -129,7 +129,7 @@
   justify-content: end;
   align-items: center;
   gap: 80px;
-  padding: 147px 0 0;
+  padding: 148px 0 0;
 }
 
 .cover__description-text {
@@ -257,7 +257,7 @@
   display: grid;
   grid-template-columns: 270px 1fr;
   column-gap: 48px;
-  padding: 2px 26px 0 66px;
+  padding: 0px 26px 0 66px;
 }
 
 .about__logo {
@@ -303,7 +303,7 @@
 .footer {
   display: flex;
   justify-content: space-between;
-  padding: 185px 50px 88px;
+  padding: 185px 50px 86px;
 }
 
 .footer__menu-list {
