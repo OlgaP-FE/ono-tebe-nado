@@ -259,7 +259,7 @@
   display: grid;
   grid-template-columns: 270px 1fr;
   column-gap: 43px;
-  padding: 0px 26px 0 69px;
+  padding: 0px 26px 0 70px;
 }
 
 .about__logo {
@@ -305,7 +305,7 @@
 .footer {
   display: flex;
   justify-content: space-between;
-  padding: 182px 50px 82px;
+  padding: 185px 50px 82px;
 }
 
 .footer__menu-list {
